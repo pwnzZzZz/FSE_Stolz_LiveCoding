@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch _02_runnable",
+            "request": "launch",
+            "mainClass": "_02_runnable",
+            "projectName": "fse_stolz_livecoding_acb3f119"
+        },
+        {
+            "type": "java",
+            "name": "Launch _01_db_access",
+            "request": "launch",
+            "mainClass": "_01_db_access",
+            "projectName": "fse_stolz_livecoding_acb3f119"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch _01_String_format",
+            "request": "launch",
+            "mainClass": "_01_String_format",
+            "projectName": "fse_stolz_livecoding_acb3f119"
+        },
+        {
+            "type": "java",
+            "name": "Launch _02_DokWriter",
+            "request": "launch",
+            "mainClass": "_02_DokWriter",
+            "projectName": "fse_stolz_livecoding_acb3f119"
+        },
+        {
+            "type": "java",
+            "name": "Launch _03_DbAccess",
+            "request": "launch",
+            "mainClass": "_03_DbAccess",
+            "projectName": "fse_stolz_livecoding_acb3f119"
+        }
+    ]
+}
